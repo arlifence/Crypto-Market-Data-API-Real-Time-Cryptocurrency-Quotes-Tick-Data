@@ -1,124 +1,81 @@
 > [English](./README.md) | [中文](./README_cn.md)
-## Contact Us
-Email: support@alltick.co
 
-Skype: [https://join.skype.com/invite/xokTc695huNu](https://join.skype.com/invite/xokTc695huNu)
+# Welcome to the AllTick Cryptocurrency Data Hub! 🌐💸
 
-Telegram: [https://t.me/alltick001](https://t.me/alltick001)
-
-## Author: AllTick
-
-## Project Name: AllTick Real-time Quotation APIs
-
-# Real-time Financial Market Data API, Real-time Forex Data API, Real-time Stock Data API, Real-time Cryptocurrency Data API, Real-time Commodity Data API Service, Real-time Tick Data, Tick-by-Tick Quotes, Data Access Solutions,Real-time stocks, real-time US stocks, real-time Hong Kong stocks.
-
-Easy-to-use and user-friendly free open-source stock API, Hong Kong stock API, US stock API, Shanghai and Shenzhen stock API, A-share API, forex API, commodity precious metals API, cryptocurrency API, and other real-time market data.
+Your ultimate destination for **real-time cryptocurrency data APIs**, including **Bitcoin real-time data API**, **Ethereum real-time data API**, **crypto tick-by-tick data API**, and **multi-level order book data API**. Get instant access to market data, analyze deep order books, and stay ahead in the fast-paced world of cryptocurrency!
 
 ## Official Website
-[https://alltick.co](https://alltick.co)
+🚀 [alltick.co](https://alltick.co)
 
-## Features:
+---
 
-- Free and open source
+## Features: Cryptocurrency Market Data API
 
-- Get real-time Hong Kong stock quotes API
+We provide top-notch features you’ll love for your crypto trading and data needs:
 
-- Get real-time 10-level order book API for Hong Kong stocks
+- **Free, Open Source, and Easy to Use** — Why pay for data when you can get it for free?
 
-- Get K-line data API for Hong Kong stocks
+- **Real-Time Cryptocurrency Quotes API** — Bitcoin, Ethereum, Dogecoin, and more! Prices update instantly.
 
-- Get real-time US stock quotes API
+- **K-Line Data API** — Perfect for technical analysis, get historical and real-time K-line data for all major cryptocurrencies!
 
-- Get real-time Level 1 order book API for US stocks
-
-- Get K-line data API for US stocks
-
-- Get real-time A-share stock quotes API
-
-- Get real-time 5-level order book API for A-share stocks
-
-- Get K-line data API for A-share stocks
-
-- Get real-time cryptocurrency quotes API
-
-- Get real-time multi-level order book API for cryptocurrencies
-
-- Get K-line data API for cryptocurrencies
-
-- Get real-time forex quotes API
-
-- Get real-time 5-level order book API for forex
-
-- Get K-line data API for forex
-
-- Get real-time precious metals quotes API
-
-- Get real-time 5-level order book API for precious metals
-
-- Get K-line data API for precious metals
-
+---
 
 ## Integration Guide
-- [Integration Guide](./access_guide.md)
 
-## Interface Introduction
-### Error Code Description
-- [Error Code Description](./error_code_description.md)
+Ready to integrate? It’s quick and easy!
+- **[Cryptocurrency Integration Guide](./access_guide.md)**
 
-### Product Code List
-- [Product Code List - A-share](./product_code_list_A_stock.md)
-- [Product Code List - Hong Kong Stock](./product_code_list_HK_stock.md)
-- [Product Code List - Cryptocurrency (Digital Currency)](./product_code_list_cryptocurrency.md)
-- [Product Code List - US Stock](./product_code_list_US_stock.md)
-- [Product Code List - Commodity (Precious Metals)](./product_code_list_commodities_gold.md)
-- [Product Code List - Forex](./product_code_list_forex.md)
+## Interface Overview
+*Get access to cryptocurrency data APIs with ease—streamlined for your needs.*
 
-### HTTP Interface
-- [Quotation API Address Description](./http_interface/api_address_description.md)
-- [Interface Restrictions](./http_interface/interface_limitation.md)
-- [Common Standard Headers](./http_interface/common_standard_header.md)
-- [Get Latest Transaction Quote Query](./http_interface/latest_transaction_price_query.md)
-- [Get Latest Order Book Quote Query](./http_interface/latest_order_book_price_query.md)
-- [K-Line Query](./http_interface/kline_query.md)
-- [Batch Code Latest K-Line Query](./http_interface/batch_kline_query.md)
+### Product Code List 🍷
+All your favorite cryptocurrencies are covered here:
+- **[Cryptocurrency Product Code List](./product_code_list_cryptocurrency.md)**
 
-### WebSocket Interface
-- [Quotation API Address Description](./websocket_interface/api_address_description.md)
-- [Interface Restrictions](./websocket_interface/interface_limitation.md)
-- [Common Standard Headers](./websocket_interface/common_standard_header.md)
-- [Heartbeat](./websocket_interface/heartbeat.md)
-- [Realtime Transaction Quote Subscription](./websocket_interface/realtime_transaction_quote_subscription.md)
-- [Realtime Order Book Quote Subscription](./websocket_interface/realtime_order_book_quote_subscription.md)
-- [Cancel Realtime Quote Subscription](./websocket_interface/cancel_realtime_quote_subscription.md)
+### HTTP Interface 🛠️
+Want data fast? Check out these endpoints:
+- **[API Endpoint Descriptions](./http_interface/api_address_description.md)**
+- **[Latest Transaction Quote Query](./http_interface/latest_transaction_price_query.md)**
+- **[Latest Order Book Quote Query](./http_interface/latest_order_book_price_query.md)**
+- **[K-Line Data Query](./http_interface/kline_query.md)**
 
-## Free Token Acquisition
-- [Token Application](./token_application.md)
+### WebSocket Interface 🕸️
+Get real-time data without delay—never miss a moment:
+- **[WebSocket API Description](./websocket_interface/api_address_description.md)**
+- **[Real-time Transaction Quote Subscription](./websocket_interface/realtime_transaction_quote_subscription.md)**
+- **[Real-time Order Book Subscription](./websocket_interface/realtime_order_book_quote_subscription.md)**
 
-## Usage Examples, Easy to Get Started
-### PHP:
+---
 
-- [HTTP Request Example](./Examples/PHP/php_http_curl.php)
-- [WebSocket Request Example](./Examples/PHP/php_websocket_workerman.php)
+## Free Token Access
+Get started quickly with a free token—register now to experience real-time data for free!  
+- **[Token Application Guide](./token_application.md)**
 
-### Python:
+---
 
-- [HTTP Request Example](./Examples/Python/http_python_example.py)
-- [WebSocket Request Example](./Examples/Python/websocket_python_example.py)
+## Usage Examples 🎉
+We’ve made it super simple to get started with example code. Pick your language and dive in!
 
-### Go:
-- [HTTP Request Example](./Examples/Go/http_go_example.go)
-- [WebSocket Request Example](./Examples/Go/websocket_go_example.go)
+### Python Examples 🐍:
+- **[HTTP Request Example](./Examples/Python/http_python_example.py)**
+- **[WebSocket Example](./Examples/Python/websocket_python_example.py)**
 
-### Java:
-- [HTTP Request Example](./Examples/Java/HttpJavaExample.java)
-- [WebSocket Request Example](./Examples/Java/WebSocketJavaExample.java)
+### Java Examples ☕:
+- **[HTTP Request Example](./Examples/Java/HttpJavaExample.java)**
+- **[WebSocket Example](./Examples/Java/WebSocketJavaExample.java)**
+
+---
 
 ## Contact Us
-Email: support@alltick.co
+Have questions? Need support? We’re here for you! Reach out and let’s talk all things crypto:
+- **Email**: support@alltick.co
+- **Skype**: [Join us on Skype](https://join.skype.com/invite/xokTc695huNu)
+- **Telegram**: [Chat with us on Telegram](https://t.me/alltick001)
 
-Skype: [https://join.skype.com/invite/xokTc695huNu](https://join.skype.com/invite/xokTc695huNu)
+--- 
 
-Telegram: [https://t.me/alltick001](https://t.me/alltick001)
+## Author: AllTick
+Join us in the journey to conquer the cryptocurrency world, one API at a time!
 
-## Other Works
-Official Website: [https://alltick.co](https://alltick.co)
+--- 
