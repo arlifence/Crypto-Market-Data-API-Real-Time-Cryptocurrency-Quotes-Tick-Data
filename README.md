@@ -77,5 +77,3 @@ Have questions? Need support? We’re here for you! Reach out and let’s talk a
 
 ## Author: AllTick
 Join us in the journey to conquer the cryptocurrency world, one API at a time!
-
---- 
