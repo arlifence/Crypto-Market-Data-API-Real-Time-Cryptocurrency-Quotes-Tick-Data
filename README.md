@@ -6,7 +6,7 @@ Your ultimate destination for **real-time cryptocurrency data APIs**, including 
 
 ## Official Website
 🚀 [alltick.co](https://alltick.co)
-
+🚀 [alltick.io](https://alltick.io) for China Mainland
 ---
 
 ## Features: Cryptocurrency Market Data API
