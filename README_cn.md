@@ -69,11 +69,9 @@
 
 ---
 
-## 联系我们
+## AllTick API 文档
 任何问题，欢迎联系！我们乐于帮助您探索加密货币的无限可能：
-- **Email**: support@alltick.co
-- **Skype**: [加入我们的Skype群组](https://join.skype.com/invite/xokTc695huNu)
-- **Telegram**: [在Telegram上与我们交流](https://t.me/alltick001)
+https://apis.alltick.co/
 
 --- 
 
