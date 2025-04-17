@@ -67,12 +67,9 @@ We’ve made it super simple to get started with example code. Pick your languag
 
 ---
 
-## Contact Us
+## AllTick API Docs
 Have questions? Need support? We’re here for you! Reach out and let’s talk all things crypto:
-- **Email**: support@alltick.co
-- **Skype**: [Join us on Skype](https://join.skype.com/invite/xokTc695huNu)
-- **Telegram**: [Chat with us on Telegram](https://t.me/alltick001)
-
+https://apis.alltick.co/
 --- 
 
 ## Author: AllTick
